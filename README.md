@@ -88,8 +88,6 @@ Here is a demo of how the okso.app may be used to explain/grasp the idea behind 
 
 You may also check the [full demo video on YouTube](https://www.youtube.com/watch?v=2833pSyP2k0) to get more context.
 
-<iframe width="560" height="274" src="https://www.youtube.com/embed/2833pSyP2k0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Feedback
 
 Note, that the app is in its **early beta stage** and some features from our [Roadmap](https://feedback.okso.app/) are still in progress and will be delivered soon.
