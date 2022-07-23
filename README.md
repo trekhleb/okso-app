@@ -1,6 +1,6 @@
 # About the OkSo App
 
-[![OkSo App](https://okso.app/banner.png)](https://okso.app)
+[![OkSo App](https://raw.githubusercontent.com/trekhleb/okso.app/main/assets/banner/banner.png)](https://okso.app)
 
 ## TL;DR
 
