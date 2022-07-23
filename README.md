@@ -1,6 +1,6 @@
 # About the OkSo App
 
-[![OkSo App](https://raw.githubusercontent.com/trekhleb/okso.app/main/assets/banner/banner.png)](https://okso.app)
+[![OkSo App](https://trekhleb.dev/okso.app/assets/banner/banner.png)](https://okso.app)
 
 ## TL;DR
 
@@ -10,7 +10,7 @@
 
 Some of you are visual learners. You need to see pictures and visualizations **to explain** and **grasp** concepts. You keep a **pencil** and a **piece of paper** at hand. Sometimes it feels like connecting two circles with an arrow would speak more apparent than describing such circles' relationship with words. Visualizations, drawings, and sketches help you organize your thoughts and knowledge.
 
-![okso.app demo](https://raw.githubusercontent.com/trekhleb/okso.app/main/assets/demo/demo-01-0.png)
+![okso.app demo](https://trekhleb.dev/okso.app/assets/demo/demo-01-0.png)
 
 The process of visualization is not always easy. It requires some thinking and energy. That's why you might find yourself taking a deep breath, and saying _"Ok! So..."_ to yourself or your vis-à-vis before diving deep into the concept. That's the reason for **the Thinker** with the **"Ok! So..."** in the logo.
 
@@ -32,7 +32,7 @@ The limitations mentioned above are being addressed as follows:
 - No color limits.
 - You may edit your drawings and undo/redo your edits.
 
-![okso.app demo](https://raw.githubusercontent.com/trekhleb/okso.app/main/assets/demo/demo-06.png)
+![okso.app demo](https://trekhleb.dev/okso.app/assets/demo/demo-06.png)
 
 Many online drawing apps give you these (and not only) possibilities. Take a look at [tldraw](https://www.tldraw.com/) or [excalidraw](https://excalidraw.com/), for example. These apps are awesome! Even more, the [OkSo](https://okso.pp) app is built on top of the [@tldraw/tldraw](https://www.npmjs.com/package/@tldraw/tldraw) NPM package itself.
 
@@ -68,15 +68,15 @@ Each item in this tree is a separate drawing/page itself. The **content** of eac
 
 The fact that the link to the sub-page is just a regular shape allows you to use **size- and color-coding**, to group the links together, and to easily distinguish them visually.
 
-![okso.app demo](https://raw.githubusercontent.com/trekhleb/okso.app/main/assets/demo/demo-03-0.png)
+![okso.app demo](https://trekhleb.dev/okso.app/assets/demo/demo-03-0.png)
 
 Also, compared to the flat lists, **you'll not be overwhelmed by a large number of pages**, since they may be organized in a tree structure. You will only see the links to the sub-pages of a particular level. You can "travel" easily between the sub-pages back and forth, deeper and deeper until you find a page you need.
 
-![okso.app demo](https://raw.githubusercontent.com/trekhleb/okso.app/main/assets/demo/demo-04-0.png)
+![okso.app demo](https://trekhleb.dev/okso.app/assets/demo/demo-04-0.png)
 
 Another approach, that the OkSo app takes compared to the other drawing apps is to be **as simple and as minimalist as possible** (just like your physical notepad). This relates not only to the UI but to the list of tools and features in particular (therefore the rectangle, the ellipse, and the arrow are hidden from the tools panel by default). For example, instead of having a reach collection of primitives, what about just drawing the "DataBase Cylinder" icon from scratch? Yes, one of the real reasons for that is plain simple laziness and desire to code less :D However, I believe, this approach also feels more authentic and artistic. When you use a whiteboard during the technical interview or during the brainstorming you draw such primitives easily, aren't you? Plus, having such basic functionalities as copy-pasting, cloning, and resizing should allow you to deliver your thought fast and easily.
 
-![okso.app demo](https://raw.githubusercontent.com/trekhleb/okso.app/main/assets/demo/demo-05-0.png)
+![okso.app demo](https://trekhleb.dev/okso.app/assets/demo/demo-05-0.png)
 
 The OkSo app is a **Progressive Web App** (PWA). It means that you may install it on your device (add to your home screen) for faster access (see [the instructions for iOS and MacOS](https://twitter.com/okso_app/status/1550510787382362115) and also [the instructions for Android](https://support.google.com/chrome/answer/9658361?hl=en&co=GENIE.Platform%3DAndroid&oco=1)).
 
@@ -84,7 +84,7 @@ The OkSo app is a **Progressive Web App** (PWA). It means that you may install i
 
 Here is a demo of how the okso.app may be used to explain/grasp the idea behind some basic data structures:
 
-![okso.app demo](https://raw.githubusercontent.com/trekhleb/okso.app/main/assets/demo/demo-01.gif)
+![okso.app demo](https://trekhleb.dev/okso.app/assets/demo/demo-01.gif)
 
 You may also check the [full demo video on YouTube](https://www.youtube.com/watch?v=2833pSyP2k0) to get more context.
 
