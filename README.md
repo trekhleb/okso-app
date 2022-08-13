@@ -1,6 +1,4 @@
-# Ok! So...
-
-## Draw to explain. Draw to grasp. Organize your drawings.
+# Ok! So... The drawing app.
 
 [![OkSo App](https://trekhleb.dev/okso.app/assets/banner/banner.png)](https://okso.app)
 
