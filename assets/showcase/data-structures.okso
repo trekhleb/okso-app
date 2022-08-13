@@ -6,7 +6,7 @@
     "type": "Settings",
     "showGrid": false,
     "snap": true,
-    "color": "#000000",
+    "color": "#cdcdcd",
     "stroke": "sm",
     "createdAt": "2022-07-19T18:20:54.230Z",
     "activeTools": [
@@ -31516,6 +31516,19 @@
     {
       "version": 3,
       "type": "Page",
+      "id": "56aa240b-f369-4fdb-3ae7-3a20e592c7aa",
+      "parentId": "888e95ec-6d28-4334-02fb-0329db211a76",
+      "name": "Trie",
+      "createdAt": "2022-08-13T14:57:35.290Z",
+      "canvas": {
+        "id": "56aa240b-f369-4fdb-3ae7-3a20e592c7aa",
+        "shapes": {},
+        "bindings": {}
+      }
+    },
+    {
+      "version": 3,
+      "type": "Page",
       "id": "5f4ad328-7934-4790-0e29-868a2999a539",
       "parentId": "552d219c-cbcd-4608-2add-a1bcf56163d4",
       "name": "Queue",
@@ -45630,13 +45643,13 @@
             "name": "Text",
             "parentId": "72941b1f-26f5-455f-01fb-7c0894ab2999",
             "point": [
-              161.34,
-              110.97
+              767.63,
+              127.46
             ],
             "childIndex": 9,
             "style": {
               "color": "#000000",
-              "scale": 2.550887178887093,
+              "scale": 2.201491740299639,
               "stroke": "sm",
               "font": "script"
             },
@@ -66535,6 +66548,28 @@
               "font": "script"
             },
             "rotation": 0
+          },
+          "e697e7d8-2adb-4db6-2342-a3d2edd439e7": {
+            "id": "e697e7d8-2adb-4db6-2342-a3d2edd439e7",
+            "type": "Page",
+            "name": "Trie",
+            "parentId": "888e95ec-6d28-4334-02fb-0329db211a76",
+            "point": [
+              919.05,
+              353.73
+            ],
+            "size": [
+              150,
+              100
+            ],
+            "childIndex": 10,
+            "style": {
+              "color": "#cdcdcd",
+              "scale": 1,
+              "stroke": "sm",
+              "font": "script"
+            },
+            "pageId": "56aa240b-f369-4fdb-3ae7-3a20e592c7aa"
           }
         },
         "bindings": {}
