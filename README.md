@@ -1,4 +1,4 @@
-# Ok! So... The drawing app.
+# Ok! So... The drawing app
 
 [![OkSo App](https://trekhleb.dev/okso.app/assets/banner/banner.png)](https://okso.app)
 
