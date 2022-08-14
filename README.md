@@ -97,3 +97,7 @@ Meanwhile:
 - feel free to [subscribe to the product updates](https://okso.app/subscribe) if you're interested
 - [leave feedback](https://feedback.okso.app/feedback) (i.e. suggest a feature or report a bug)
 - and [follow OkSo on Twitter](https://twitter.com/okso_app)
+
+## Notes
+
+The actual source-code of the app is not open-sourced at the moment.
