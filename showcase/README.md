@@ -6,5 +6,7 @@ This folder contains examples of drawings that were made using the [okso.app](ht
 
 If you would like to contribute your example of the okso.app showcase please follow the next steps:
 
-- [ ] Create a new sub-folder inside the [/showcase/community](./community/) folder. The name of the folder should be meaningful, concise, and it should describe what your sketch is about (i.e. `data-structures`)
-- [ ] Create your sketch using the [okso.app](https://okso.app), and export it via "File -> Save" menu to the file with `.okso` extension. Put this file inside the directory that you've created on the first step.
+- [ ] Create a sub-folder inside the [/showcase/community](./community/) folder (i.e. `./showcase/community/data-structures`)
+- [ ] Create your sketch using the [okso.app](https://okso.app).
+  - [ ] Export it via `"File -> Save"` menu to the file with `.okso` extension.
+  - [ ] Put this file inside the directory from the first step.
