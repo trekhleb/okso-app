@@ -17,6 +17,6 @@ If you would like to contribute your example of the okso.app showcase please fol
   - [ ] _(Optional)_ `Cover` - the cover image for your showcase (i.e. the image with `.jpg` or `.png` extension of size `~800x500px` or `~1000x800px`)
   - [ ] Create a pull-request
 
-> Not all sketches will be accepted. Remember, that sketches should add value and be useful for the community.
+> ❗️ Not all sketches might be accepted. Remember, that sketches should add value and be useful for the community.
 
 In the future we plan to introduce "Accounts" in okso.app to make contribution process much simpler. 
