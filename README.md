@@ -97,6 +97,7 @@ Meanwhile:
 - feel free to [subscribe to the product updates](https://okso.app/subscribe) if you're interested
 - [leave feedback](https://feedback.okso.app/feedback) (i.e. suggest a feature or report a bug)
 - and [follow OkSo on Twitter](https://twitter.com/okso_app)
+- you may also [contribute to the OkSo Showcase](./showcase/)
 
 ## Notes
 
