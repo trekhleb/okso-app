@@ -2,6 +2,12 @@
 
 This folder contains examples of drawings that were made using the [okso.app](https://okso.app).
 
+These drawings are available on the [okso.app/showcase](https://okso.app/showcase)
+
+Here is an example of the [Data Structure Sketches](https://okso.app/showcase/data-structures) showcase:
+
+![Data Structure Sketches](../assets/demo/demo-12-showcase-data-structures-sm-x3.gif)
+
 ## Contribution Guide
 
 If you would like to contribute your example of the okso.app showcase please follow the next steps:
