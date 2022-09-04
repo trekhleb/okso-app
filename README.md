@@ -6,6 +6,8 @@
 
 > The [OkSo](https://okso.app) app is the drawing app to express, grasp, and organize your thoughts and ideas. Draw to explain. Draw to grasp.
 
+> Instructions on how to [Add your showcase example](./showcase/)
+
 ## Concept
 
 Some of you are visual learners. You need to see pictures and visualizations **to explain** and **grasp** concepts. You keep a **pencil** and a **piece of paper** at hand. Sometimes it feels like connecting two circles with an arrow would speak more apparent than describing such circles' relationship with words. Visualizations, drawings, and sketches help you organize your thoughts and knowledge.
