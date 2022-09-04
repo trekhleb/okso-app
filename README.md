@@ -6,7 +6,7 @@
 
 > The [OkSo](https://okso.app) app is the drawing app to express, grasp, and organize your thoughts and ideas. Draw to explain. Draw to grasp.
 
-> Instructions on how to [Add your showcase example](./showcase/)
+> Instructions on how to [Add your showcase example](./showcase/) to okso.app
 
 ## Concept
 
