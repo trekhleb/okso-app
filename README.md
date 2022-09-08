@@ -90,6 +90,14 @@ Here is a demo of how the okso.app may be used to explain/grasp the idea behind 
 
 You may also check the [full demo video on YouTube](https://www.youtube.com/watch?v=2833pSyP2k0) to get more context.
 
+## Showcase
+          
+The [OkSo Showcase](https://okso.app/showcase) contains some drawings examples that were made using the okso.app:
+
+![okso.app showcase](https://trekhleb.dev/okso-app/assets/demo/demo-12-showcase-data-structures-sm-x2.gif)
+
+You may also check the [full demo video on YouTube](https://www.youtube.com/watch?v=yaOWTOWOWGk) to get more context.
+
 ## Feedback
 
 Note, that the app is in its **early beta stage** and some features from our [Roadmap](https://feedback.okso.app/) are still in progress and will be delivered soon.
