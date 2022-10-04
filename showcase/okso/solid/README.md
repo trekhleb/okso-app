@@ -1,4 +1,4 @@
-# S.O.L.I.D. Principles
+# SOLID Principles
 
 ## File (.okso)
 
@@ -6,7 +6,7 @@
 
 ## Description (1 sentence)
 
-S.O.L.I.D. principles sketches with real-world examples
+SOLID principles sketches with real-world examples
 
 ## Covers (1024x640px)
 
