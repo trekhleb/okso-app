@@ -8,11 +8,11 @@
 
 Basic data structures explained with minimalistic sketches.
 
-## Covers (800x500px)
+## Covers (1024x640px)
 
-[cover-01.png](./cover-01.png)
+[cover-03.png](./cover-03.png)
 
-![Data Structures](./cover-01.png)
+![Data Structures](./cover-03.png)
 
 ## Author (with link)
 

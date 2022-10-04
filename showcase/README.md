@@ -20,7 +20,7 @@ If you would like to contribute your example of the okso.app showcase please fol
   - [ ] `Title` - concise name of your sketch (i.e. `Data Structures`)
   - [ ] `Description` - one sentence description of what your sketch is about (i.e. `Basic data structures explained with minimalistic sketches.`)
   - [ ] `Author` - name and the link to the author of the sketch (i.e. `[Oleksii Trekhleb](https://twitter.com/Trekhleb)`)
-  - [ ] _(Optional)_ `Cover` - the cover image for your showcase (i.e. the image with `.jpg` or `.png` extension of size `~800x500px` or `~1000x800px`)
+  - [ ] _(Optional)_ `Cover` - the cover image for your showcase (i.e. the image with `.jpg` or `.png` extension of size `1024x640px`)
   - [ ] Create a pull-request
 
 > ❗️ Not all sketches might be accepted. Remember, that sketches should add value and be useful for the community.
