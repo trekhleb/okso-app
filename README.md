@@ -111,4 +111,4 @@ Meanwhile:
 
 ## Notes
 
-The actual source-code of the app is not open-sourced at the moment.
+❗️ The actual source-code of the app is not open-sourced at the moment.
