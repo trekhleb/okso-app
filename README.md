@@ -112,3 +112,7 @@ Meanwhile:
 ## Notes
 
 ❗️ The actual source-code of the app is not open-sourced at the moment.
+
+## Author
+
+- [@trekhleb](https://trekhleb.dev)
