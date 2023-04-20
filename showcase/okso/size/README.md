@@ -1,18 +1,18 @@
-# How Unique Are You
+# Size
 
 ## File (.okso)
 
-[how-unique-are-you.okso](./how-unique-are-you.okso)
+[size.okso](./size.okso)
 
 ## Description (1 sentence)
 
-How unique are you
+Size of the universe
 
 ## Covers (1024x640px)
 
 [cover-01.png](./cover-01.png)
 
-![How Unique Are You](./cover-01.png)
+![Size](./cover-01.png)
 
 ## Author (with link)
 
