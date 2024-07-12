@@ -1,5 +1,7 @@
 # System Design Sketches
 
+![System Design Sketches](../../../assets/demo/demo-30-system-design-sketches.gif)
+
 ## File (.okso)
 
 The file that contains the source code of the System Design Sketches: 
