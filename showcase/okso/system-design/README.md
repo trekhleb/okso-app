@@ -16,7 +16,7 @@ System design sketches for system design interviews.
 
 [cover-01.png](./cover-01.png)
 
-![SOLID Principles](./cover-01.png)
+![System Design Sketches](./cover-01.png)
 
 ## Author (with link)
 
