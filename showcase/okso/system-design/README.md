@@ -14,7 +14,7 @@ This file may be edited via the https://okso.app _(Menu > File > Open/Save)_.
 
 ## Description (1 sentence)
 
-System design sketches for system design interviews.
+System design sketches for popular system design interview questions.
 
 ### Social network
 
